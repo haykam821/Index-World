@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "indexworld",
+	"version": "${version}",
+	"name": "Index World",
+	"description": "Adds a world with an index of blocks and items.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Index-World#readme",
+		"issues": "https://github.com/haykam821/Index-World/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.indexworld.Main"
+		]
+	},
+	"license": "MIT",
+	"icon": "assets/indexworld/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

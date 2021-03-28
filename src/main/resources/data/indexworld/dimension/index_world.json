@@ -1,0 +1,10 @@
+{
+	"generator": {
+		"type": "indexworld:index_world",
+		"biome_source": {
+			"type": "minecraft:fixed",
+			"biome": "minecraft:plains"
+		}
+	},
+	"type": "indexworld:index_world"
+}
